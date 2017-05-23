@@ -1,2 +1,2 @@
-# pomodoro
-Pomodoro timer
+#The Odin Project
+#Pomodoro timer
